@@ -6,5 +6,5 @@ description: Especially for PC conf!
 thumbnail: ./first-image
 ---
 
-![pc-poster](./first-image)
-![pc-security-poster](./second-image)
+![pc-poster](./first-image.jpg)
+![pc-security-poster](./second-image.png)
